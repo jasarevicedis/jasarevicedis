@@ -3,8 +3,8 @@
 
 ```javascript
 const aboutMe = {
-  age: "20",
-  code: [Typescript, Angular, Csharp, Dotnet, Sass], //most of the time
+  age: "21",
+  code: [Angular, C#, .Net, Phyton], 
   education:  {
               university: "University of Sarajevo",
               faculty: "Faculty of Electrical Engineering",
