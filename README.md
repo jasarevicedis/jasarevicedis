@@ -3,14 +3,13 @@
 
 ```javascript
 const aboutMe = {
-  age: "21",
-  code: [Angular, C#, .Net, Phyton], 
+  age: "22",
+  code: [Angular, C#, .Net, Python], 
   education:  {
               university: "University of Sarajevo",
               faculty: "Faculty of Electrical Engineering",
               degree: "Computer Science"
-              },
-  careerInterests: ["web development", "embedded engineering"]
+              }
 }
 ```
 <!--
